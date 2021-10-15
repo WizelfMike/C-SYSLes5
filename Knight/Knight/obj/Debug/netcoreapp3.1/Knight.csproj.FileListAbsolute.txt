@@ -1,0 +1,13 @@
+C:\Users\mikey\Documents\Knight\Knight\bin\Debug\netcoreapp3.1\Knight.exe
+C:\Users\mikey\Documents\Knight\Knight\bin\Debug\netcoreapp3.1\Knight.deps.json
+C:\Users\mikey\Documents\Knight\Knight\bin\Debug\netcoreapp3.1\Knight.runtimeconfig.json
+C:\Users\mikey\Documents\Knight\Knight\bin\Debug\netcoreapp3.1\Knight.runtimeconfig.dev.json
+C:\Users\mikey\Documents\Knight\Knight\bin\Debug\netcoreapp3.1\Knight.dll
+C:\Users\mikey\Documents\Knight\Knight\bin\Debug\netcoreapp3.1\Knight.pdb
+C:\Users\mikey\Documents\Knight\Knight\obj\Debug\netcoreapp3.1\Knight.csprojAssemblyReference.cache
+C:\Users\mikey\Documents\Knight\Knight\obj\Debug\netcoreapp3.1\Knight.AssemblyInfoInputs.cache
+C:\Users\mikey\Documents\Knight\Knight\obj\Debug\netcoreapp3.1\Knight.AssemblyInfo.cs
+C:\Users\mikey\Documents\Knight\Knight\obj\Debug\netcoreapp3.1\Knight.csproj.CoreCompileInputs.cache
+C:\Users\mikey\Documents\Knight\Knight\obj\Debug\netcoreapp3.1\Knight.dll
+C:\Users\mikey\Documents\Knight\Knight\obj\Debug\netcoreapp3.1\Knight.pdb
+C:\Users\mikey\Documents\Knight\Knight\obj\Debug\netcoreapp3.1\Knight.genruntimeconfig.cache
